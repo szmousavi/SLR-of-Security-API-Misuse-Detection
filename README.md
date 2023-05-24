@@ -1,1 +1,1 @@
-# SLR-of-Security-API-Misuse-Detection
+This repository contains supplementary information for the following submitted paper: Zahra Mousavi, Chadni Islam, M. Ali Babar, Alsharif Abuadbba, and Kristen Moore, "Misuse Detection for Security APIs: A Systematic Review and Future Directions".
